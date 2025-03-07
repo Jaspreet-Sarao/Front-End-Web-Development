@@ -1,2 +1,2 @@
-# Front-End-Web-Development
+# Front-End Web Development
 A comprehensive manual on **Front-End Web development** may be found in this repository.  Along with tutorials, code examples, and projects to assist you in creating contemporary, responsive, and user-friendly websites, it covers HTML, CSS, JavaScript, and well-known frameworks like React.  This repository offers the resources and expertise needed to build beautiful web interfaces, regardless of your level of experience.
